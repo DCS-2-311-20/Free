@@ -1,12 +1,12 @@
 //
 // 応用プログラミング 第9,10回 自由課題 (ap0901.js)
-// G18400-2021 拓殖太郎
+// G38400-2023 拓殖太郎
 //
 "use strict"; // 厳格モード
 
 // ライブラリをモジュールとして読み込む
 import * as THREE from "three";
-import { GUI } from "gui";
+import { GUI } from "ili-gui";
 
 // ３Ｄページ作成関数の定義
 function init() {
